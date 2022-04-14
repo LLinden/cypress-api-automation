@@ -1,0 +1,6 @@
+{
+    "env": {
+      "GO_REST": "https://gorest.co.in/",
+      "TOKEN_API": ""
+    }
+}
